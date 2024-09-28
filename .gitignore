@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and configuration files
+.env
+*.env
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.xlsx
+*.json
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.pth
+*.pt
+
+# Logs and checkpoints
+logs/
+*.log
+*.out
+*.err
+checkpoint/
+*.ckpt
+
+# TensorBoard
+runs/
+tensorboard/
+*.tfevents
+
+# VSCode settings
+.vscode/
+
+# Spyder project settings
+.spyproject/
+*.spyproject
+
+# PyCharm settings
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
